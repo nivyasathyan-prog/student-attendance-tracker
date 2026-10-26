@@ -1,4 +1,4 @@
 Student Attendance Tracker
 Task: Create a simple attendance tracking webpage.
-Status: Main branch version.
+Status: Attendance tracking feature completed.
 Feature: Attendance status tracking.
